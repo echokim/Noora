@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-mp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/noora-sys" charset="UTF-8" />
+  </component>
+</project>
